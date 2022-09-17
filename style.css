@@ -1,0 +1,52 @@
+.button2{
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.button3,
+#start{
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.button{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    
+
+}
+.button-reset{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+.intro{
+    font-family: 'Larsseit', sans-serif;
+    font-weight: 700;
+}
+.city{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+#fizikal{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
